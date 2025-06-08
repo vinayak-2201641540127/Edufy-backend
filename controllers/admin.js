@@ -1,6 +1,6 @@
 import TryCatch from "../middlewares/TryCatch.js";
 import { Courses } from "../models/Courses.js";
-import { Lecture } from "../models/lecture.js";
+import { Lecture } from "../models/Lecture.js";
 import {rm} from 'fs';
 import {promisify} from 'util';
 import fs from 'fs';
